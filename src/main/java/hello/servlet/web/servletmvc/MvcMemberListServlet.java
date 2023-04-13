@@ -12,6 +12,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.List;
 
+/*
 @WebServlet
 public class MvcMemberListServlet extends HttpServlet {
 
@@ -27,3 +28,4 @@ public class MvcMemberListServlet extends HttpServlet {
         requestDispatcher.forward(request,response);
     }
 }
+*/
